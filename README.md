@@ -1,2 +1,2 @@
-# JSSSTU-Data-Structures-Lab-Programs
-These programs are  JSSSTU Data Structures using C, Lab Cycle (22CS36L).  
+# JSSSTU-Java-Lab-Programs
+These programs are  JSSSTU Java, Lab Cycle (22CS320P).  
